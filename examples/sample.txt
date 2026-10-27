@@ -1,0 +1,3 @@
+CryptoChunk demonstration file.
+This sample is split into logical chunks, encoded into four data shards and two parity shards,
+and protected by SHA-256 digests and an HMAC-authenticated manifest.
